@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include axistalent8848 *.css
+recursive-include axistalent8848 *.csv
+recursive-include axistalent8848 *.html
+recursive-include axistalent8848 *.ico
+recursive-include axistalent8848 *.js
+recursive-include axistalent8848 *.json
+recursive-include axistalent8848 *.md
+recursive-include axistalent8848 *.png
+recursive-include axistalent8848 *.py
+recursive-include axistalent8848 *.svg
+recursive-include axistalent8848 *.txt
+recursive-exclude axistalent8848 *.pyc
